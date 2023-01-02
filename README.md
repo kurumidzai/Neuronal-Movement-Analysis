@@ -12,7 +12,7 @@ avg, std_dev = analyze_neuronal_movements(movement_data)
 print(avg) # should print 3.0
 
 print(std_dev) # should print 1.5811388300841898```
-
+```
 
 The function will return the average and standard deviation of the movement data as a tuple.
 
